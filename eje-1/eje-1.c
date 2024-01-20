@@ -4,7 +4,7 @@ void reverse(int n){
     int reverse = 0;
     int cantidad_impares = 0;
 
-    while (n != 0)
+    if (n != 0)
     {
         int digito = n % 10;
         if (digito % 2 != 0)
