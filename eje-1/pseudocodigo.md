@@ -34,4 +34,4 @@
         ESCRIBIR(cantidad_impares)
         ESCRIBIR(reverse)
     FIN_PROCEDIMIENTO
-
+    ```
